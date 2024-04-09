@@ -15,7 +15,7 @@ Example - My journey in computer science has led me to develop a passion for cyb
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Example         | <a href="https://google.com">Detection Lab</a>|
+| Example         | <a href="https://github.com/Lowenmaxx/SOC-Automation-Project/blob/main/README.md">SOC Automation</a>|
 
 
 ## Tools
